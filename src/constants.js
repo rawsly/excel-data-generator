@@ -53,15 +53,13 @@ export const ACCOUNTS = [
 
 export const ROLES = [
   "Content Manager",
+  "Exam Creator",
+  "Guest",
   "HR",
   "Interviewer",
-  "Interviewer Second",
+  "Pool Manager",
   "Resource Planer",
-  "YDY/Exam Manager",
-  "YDY/Pool Manager",
-  "YDY/Pro Content Manager",
-  "YDY/Pro Session Manager",
-  "YDY/Session Manager",
+  "Session Template Creator",
 ];
 
 export const DEPARTMENTS = [
